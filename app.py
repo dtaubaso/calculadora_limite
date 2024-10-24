@@ -25,10 +25,7 @@ st.markdown("""
   font-size: 20px;
   
 }
-    .stApp {
-        max-width: 600px; /* Ancho máximo del contenedor */
-        margin: auto;
-    }
+  
     </style>
     """, unsafe_allow_html=True)
 
